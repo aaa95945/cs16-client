@@ -3,11 +3,11 @@
 <resources>
 
 
-    <string name="app_name">CS16客户端</string>
+    <string name="app_name">CS16Client</string>
 
     <string name="title_activity_launcher">CS16客户端启动器</string>
 
-    <string name="launch_button">启动 CS 1.6!</string>
+    <string name="launch_button">启动 CS16Client!</string>
 
     <string name="cmd_args_text">命令行参数:</string>
 
